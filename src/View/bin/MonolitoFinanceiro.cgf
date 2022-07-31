@@ -1,0 +1,4 @@
+[Banco de Dados]
+DriverID = SQLite
+Database = C:\Users\diego\Documents\Embarcadero\Studio\Projects\MonolitoFinanceiro\src\View\db\SistemaFinanceiro.db
+LockingMode = Normal

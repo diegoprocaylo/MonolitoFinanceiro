@@ -1,0 +1,11 @@
+create table contas_receber_detalhes (
+id character(36) not null constraint contas_receber_detalhes_pk primary key,
+id_contas_pagar character(36) not null,
+detalhes varchar(200) not null,
+valor decimal(18,2) not null,
+data date not null,
+usuario varchar(50) not null
+
+
+
+);
